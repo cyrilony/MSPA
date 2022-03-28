@@ -36,7 +36,7 @@ nmodes = 10;         % number of modes to compute
 
 fprintf(1,'neff = %.6f\n',neff);
 
-for iter =1:nmodes   %for loop to plot each mode 
+for iter =1:nmodes  
     
 figure(1);
 subplot(121);
